@@ -11,5 +11,9 @@
     ],
     "Tech Stack": ["almost everything in JS"],
     "Projects": ["www.piyushmehta.com"],
+<<<<<<< HEAD
     "Contact": ["me@piyushmehta.com"]
+=======
+    "Contact": ["me@piyushmehta"]
+>>>>>>> d23b2a7e3fb587afe3d206095b8c0445c852e142
   }
