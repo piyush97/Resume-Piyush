@@ -3,10 +3,13 @@
 
 var inquirer = require("inquirer");
 var chalk = require("chalk");
-
+var figlet = require('figlet');
+var clear = require('clear');
 var response = chalk.bold.blue;
 
 var resume = require("./resume.json");
+
+
 
 var resumePrompts = {
   type: "list",
@@ -16,8 +19,12 @@ var resumePrompts = {
 };
 
 function main() {
-  console.log("Hello, My name is Piyush Mehta and welcome to my resume");
-  resumeHandler();
+  clear();
+  console.log(
+    chalk.yellow(
+      figlet.textSync('Welcome to Piyush Mehta\'s Resume', { horizontalLayout: 'full' })
+    )
+  );  resumeHandler();
 }
 
 function resumeHandler() {
@@ -31,7 +38,7 @@ function resumeHandler() {
       console.log(response("|   => " + info));
     });
     console.log(response("--------------------------------------"));
-    // console.log(resume[`${option}`]);
+    console.log(resume[`${option}`]);
     inquirer
       .prompt({
         type: "list",
