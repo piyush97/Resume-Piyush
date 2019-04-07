@@ -13,5 +13,5 @@ npm i -g resume-piyush
 resume-piyush
 ```
 
-![](https://i.ibb.co/zG1VdQG/ezgif-com-video-to-gif-3.gif)
+![](Readme.gif)
 #### Made with love by Piyush Mehta
