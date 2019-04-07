@@ -1,0 +1,7 @@
+node_modules/
+.DS_Store
+Dockerfile
+push.sh
+yarn-error.log
+.travis.yml
+.dockerignore
