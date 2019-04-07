@@ -4,7 +4,7 @@
 var inquirer = require("inquirer");
 var chalk = require("chalk");
 
-var response = chalk.bold.green;
+var response = chalk.bold.blue;
 
 var resume = require("./resume.json");
 
