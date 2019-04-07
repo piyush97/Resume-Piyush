@@ -13,6 +13,5 @@ npm i -g resume-piyush
 resume-piyush
 ```
 
-<img src="https://i.ibb.co/zG1VdQG/ezgif-com-video-to-gif-3.gif" alt="resume-piyush" border="0">
-
+![](https://i.ibb.co/zG1VdQG/ezgif-com-video-to-gif-3.gif)
 #### Made with love by Piyush Mehta
