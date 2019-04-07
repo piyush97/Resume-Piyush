@@ -1,6 +1,5 @@
 language: node_js
-script: 
-  - npm version patch
+cache: npm
 deploy:
   provider: npm
   email: me@piyushmehta.com
