@@ -10,13 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/piyush97/Resume-Piyush.git"
   },
-  "preferGlobal": true,
-  "author": "piyush mehta",
+  "author": "piyush mehta <me@piyushmehta.com> (https://piyushmehta.com)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/piyush97/Resume-Piyush/issues"
   },
-  "homepage": "https://github.com/piyush97/Resume-Piyush#readme",
+  "homepage": "https://piyush97.github.io/Resume-Piyush/",
   "dependencies": {
     "chalk": "^2.4.2",
     "clear": "^0.1.0",
