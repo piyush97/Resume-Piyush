@@ -6,7 +6,7 @@ Build Status
 ### How to use my resume
 
 ```
-npm i --g resume-piyush
+npm i -g resume-piyush
 ```
 
 ```
