@@ -1,10 +1,11 @@
 {
   "name": "resume-piyush",
   "version": "1.0.0",
-  "description": "",
+  "description": "Piyush Mehta Resume",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
   },
   "repository": {
     "type": "git",
@@ -15,13 +16,9 @@
   "bugs": {
     "url": "https://github.com/piyush97/Resume-Piyush/issues"
   },
-<<<<<<< HEAD
   "homepage": "https://github.com/piyush97/Resume-Piyush#readme",
   "dependencies": {
     "chalk": "^2.4.2",
     "inquirer": "^6.2.2"
   }
-=======
-  "homepage": "https://github.com/piyush97/Resume-Piyush#readme"
->>>>>>> d23b2a7e3fb587afe3d206095b8c0445c852e142
 }
