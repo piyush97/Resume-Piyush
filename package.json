@@ -10,6 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/piyush97/Resume-Piyush.git"
   },
+  "preferGlobal": true,
   "author": "piyush mehta",
   "license": "MIT",
   "bugs": {
@@ -30,6 +31,5 @@
     "resume",
     "piyush",
     "mehta"
-  ],
-  "preferGlobal": true
+  ]
 }
