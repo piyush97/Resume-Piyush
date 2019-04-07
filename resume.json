@@ -1,18 +1,19 @@
 {
-    "Education": [
-      "Bachelor's of Engineering at MSRIT, Bangalore",
-      "MJKPS, Delhi",
-      "Playing Brass Instruments"
-    ],
-    "Past Experience": [
-      "Full Stack Developer Intern at Ask N Bid",
-      "Software Developer Intern at MEAWW",
-      "Full Stack Developer at Aidapp"
-    ],
-    "Tech Stack": ["almost everything in JS"],
-    "GitHub": ["https://github.com/piyush97"],
-    "Projects": [
-      "www.piyushmehta.com",
-      "www.aidapp.com"],
-    "Contact": ["me@piyushmehta.com"]
-  }
+  "Education": [
+    "Bachelor's of Engineering at MSRIT, Bangalore",
+    "MJKPS, Delhi",
+    "Playing Brass Instruments"
+  ],
+  "Past Experience": [
+    "Full Stack Developer Intern at Ask N Bid",
+    "Software Developer Intern at MEAWW",
+    "Full Stack Developer at Aidapp"
+  ],
+  "Tech Stack": ["almost everything in JS"],
+  "GitHub": ["https://github.com/piyush97"],
+  "Portfolio": ["www.piyushmehta.com"],
+  "Projects": [
+    "www.aidapp.com"
+  ],
+  "Contact": ["me@piyushmehta.com"]
+}
