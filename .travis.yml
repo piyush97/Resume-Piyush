@@ -3,3 +3,10 @@ node_js:
 - stable
 - '6'
 - '4'
+deploy:
+  provider: npm
+  email: me@piyushmehta.com
+  api_key:
+    secure: NvJ070Zx6Hms+HvJRDovo4EjmWmn8XAs6pIrVDpYNKOiLJ1MKnbdM9W17kwx+QEBo8MGTE910+EfXYAxljOUTiCZPkIZUYpEb7px3QqiyWU2XRyCJ91+OnlLgGXuR6x+j4bDeLzQg0vgg3cqj69dXr+k+1CEwcgFH6R7H5ind3WBqEsumXbdk8bImv+k3vRmRREN7eVPO+OhAiPy6vc6B6JejeqYiWqzkAaEv68RFd/CO4BdDJ05/2brdiTREWh+27RZeXGz9P5r4GO5xZFmVySDoDq6Sih/bYsMoJdtV8chg2IhxkULxW5GoU+btKHaTalozjZ3HGCp8RS1K8k+bWTO4ONfS7r9WHQO3MmqPDgWZSujwkP9vExbAxzFiK4wUk9hU0U+q4G+Nanp1uAWMfJQzHNSW7UgW5tXuixIny6ng5iEl48e02QLpx2iO6tnbsa3Pz+/9yeH5r/oUPF2B6CFp+5knWLJOVtOX4K7x+7mK28hVkSrb03ierHDBOVGIVnwBvOYZ69Nj5xOym5fXPmvPZqgDVos+/mIb+NrGc77DUdS8oeDua3AXwuxqa8j7qKaFJMljKokFrG4nG9c9khB6cPzVsQcJEpH1qNVMkjDY0mJD0sd97yQRjEMYAgubYivgEAGAqmj0OX2mEB1rKnho9HTWCwBj4Vp8JyNBXo=
+  on:
+    repo: piyush97/Resume-Piyush
