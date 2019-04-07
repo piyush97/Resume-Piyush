@@ -22,7 +22,7 @@ function main() {
   clear();
   console.log(
     chalk.yellow(
-      figlet.textSync('Welcome to Piyush Mehta\'s Resume', { horizontalLayout: 'full' })
+      figlet.textSync('Piyush Mehta', { horizontalLayout: 'full' })
     )
   );  resumeHandler();
 }
