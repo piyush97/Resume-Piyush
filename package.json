@@ -21,5 +21,8 @@
     "clear": "^0.1.0",
     "figlet": "^1.2.1",
     "inquirer": "^6.2.2"
+  },
+"bin": {
+  "resume-piyush": "./index.js"
   }
 }
