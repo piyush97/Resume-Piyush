@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/piyush97/Resume-Piyush.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "piyush mehta",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/piyush97/Resume-Piyush/issues"
   },
@@ -22,7 +22,13 @@
     "figlet": "^1.2.1",
     "inquirer": "^6.2.2"
   },
-"bin": {
-  "resume-piyush": "./index.js"
-  }
+  "bin": {
+    "resume-piyush": "./index.js"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "resume",
+    "piyush",
+    "mehta"
+  ]
 }
