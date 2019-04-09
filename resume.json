@@ -12,6 +12,18 @@
     "Open Source Developer at FOSSASIA"
   ],
   "Tech Stack": ["almost everything in JS"],
+  "Skills": ["Languages- C, C++, Java 8, Python, R, JavaScript (ECMA 6+)",
+    "WEB TECHNOLOGIES- HTML, CSS, Bootstrap, NodeJs, JavaScript, Ajax, React,React-Native, Redux, D3JS, Chartist, GraphQL, XHR, RESTful API, MySQL, SQLite, MongoDb, Jekyll, PHP, Gatsby, Next, Nuxt, Python, Discourse",
+    "DEV-OPS: Amazon Web Services, Heroku, DIgital Ocean, Vultr, Vagrant, DOCKER, Continuous Integration By Travis-CI and Circle-CI, Kubernetes",
+    "Preferred Stack for Web Development- MERN, GRAND, AMP.",
+    "Post Processing and Manipulations- Photoshop and Adobe Lightroom",
+    "Designing: Sketch, Photoshop, Figma",
+    "Mobile: Ionic, React-Native, Android App Development using Android Studio (NATIVE) and Swift (iOS Native)",
+    "Testing: MochaJS, ChaiJs, Jest"
+  ],
+  "Certificates":[
+    "Machine Learning with Python (Jupyter, NumPy) By Azure Skynet Solutions Pvt. Ltd and IIT Hyderabad. Android App Development (Native-Java) By Internshala VTC. GCP Essentials Coursera. Web Development (FullStack-PHP, MySQL) By Internshala VTC. Web Development Bootcamp (Fullstack- MEAN) By Udemy. Advance Web Development Bootcamp (Fullstack- MERN) By Udemy. NodeJs Developer Bootcamp (Node) By Udemy. Complete Python Web Development (BeautifulSoup4 Scraping) By Udemy. Applied CS (GOOGLE- Java Data Structures and Android) By Ramaiah Institute of Technology. Full Stack React Development (MERN) By Udemy. Advance Database Management Systems By Udemy. Android App Development (Native-Java) By Google Reskill India (Udacity). GraphQL By FreeCodeCamp. Front-end Development By FreeCodeCamp."]
+,
   "GitHub": ["https://github.com/piyush97"],
   "Portfolio": ["www.piyushmehta.com"],
   "Projects": [
